@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-energymanager-dev-b3329-authRole",
+      "UnauthRoleArn": "arn:aws:iam::067476862476:role/amplify-energymanager-dev-b3329-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::067476862476:role/amplify-energymanager-dev-b3329-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-energymanager-dev-b3329-deployment",
+      "UnauthRoleName": "amplify-energymanager-dev-b3329-unauthRole",
+      "StackName": "amplify-energymanager-dev-b3329",
+      "StackId": "arn:aws:cloudformation:eu-west-2:067476862476:stack/amplify-energymanager-dev-b3329/dbdfca70-1db8-11f0-a9a4-02c4766cdf49",
+      "AmplifyAppId": "d3c9fg05qfgagz"
+    },
+    "categories": {
+      "auth": {
+        "energymanager2c223c87": {}
+      }
+    }
+  }
+}
